@@ -8,7 +8,7 @@ A Python based simple calculator.
 # 🚀&nbsp;Installation 
 1. Clone the repository 
 ```
-https://github.com/Ash515/AshCalc-Simple_Calculator.git
+https://github.com/Ash515/AshCalc-SimpleCalculator.git
 ```
 2. Check the status of your file 
 ```
