@@ -1,5 +1,9 @@
-# AshCalc-Simple_Calculator
+# AshCalc-Simple_Calculator 📱
 A Python based simple calculator. 
+
+# Image Results 📷
+
+<img src="Calcimages/calc1.png" width="400px">   <img src="Calcimages/Calc2.png" width="400px">
 
 # 🚀&nbsp;Installation 
 1. Clone the repository 
