@@ -1,4 +1,4 @@
-# AshCalc-Simple_Calculator 📱
+# AshCalc-SimpleCalculator 📱
 A Python based simple calculator. 
 
 # Image Results 📷
