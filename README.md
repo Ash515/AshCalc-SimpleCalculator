@@ -32,3 +32,6 @@ $git commit -m  <message>
 $git push origin master
 ```
 Thats all about installation and version control with **Git**
+
+# Developers ❤
+[Ashwin Kumar Ramaswamy](https://github.com/Ash515)
