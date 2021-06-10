@@ -1,5 +1,5 @@
 # AshCalc-SimpleCalculator 📱
-A Python based simple calculator having basic arithmetic operations. 
+ GUI simple calculator having basic arithmetic operations. 
 
 ## Tech Stacks
 - Python3
