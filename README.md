@@ -1,7 +1,11 @@
 # AshCalc-SimpleCalculator 📱
 A Python based simple calculator. 
 
-# Image Results 📷
+## Tech Stacks
+- Python3
+- Library - Tkinter
+
+## Image Results 📷
 
 <img src="Calcimages/calc2.png" width="400px">   <img src="Calcimages/Calc1.png" width="400px">
 
