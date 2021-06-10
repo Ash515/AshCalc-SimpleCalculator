@@ -1,5 +1,5 @@
 # AshCalc-SimpleCalculator 📱
-A Python based simple calculator. 
+A Python based simple calculator having basic arithmetic operations. 
 
 ## Tech Stacks
 - Python3
@@ -9,7 +9,7 @@ A Python based simple calculator.
 
 <img src="Calcimages/calc2.png" width="400px">   <img src="Calcimages/Calc1.png" width="400px">
 
-# 🚀&nbsp;Installation 
+## Installation 
 1. Clone the repository 
 ```
 https://github.com/Ash515/AshCalc-SimpleCalculator.git
